@@ -1,0 +1,4 @@
+D:\C#VS\Shaghaf.Dev\Shaghaf.Services\obj\Debug\net8.0\Shaghaf.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#VS\Shaghaf.Dev\Shaghaf.Services\obj\Debug\net8.0\Shaghaf.Service.AssemblyInfoInputs.cache
+D:\C#VS\Shaghaf.Dev\Shaghaf.Services\obj\Debug\net8.0\Shaghaf.Service.AssemblyInfo.cs
+D:\C#VS\Shaghaf.Dev\Shaghaf.Services\obj\Debug\net8.0\Shaghaf.Service.csproj.CoreCompileInputs.cache

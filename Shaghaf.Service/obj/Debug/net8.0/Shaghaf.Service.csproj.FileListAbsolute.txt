@@ -1,0 +1,15 @@
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\bin\Debug\net8.0\Shaghaf.Service.deps.json
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\bin\Debug\net8.0\Shaghaf.Service.dll
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\bin\Debug\net8.0\Shaghaf.Service.pdb
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\bin\Debug\net8.0\Shaghaf.Core.dll
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\bin\Debug\net8.0\Shaghaf.Core.pdb
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\obj\Debug\net8.0\Shaghaf.Service.csproj.AssemblyReference.cache
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\obj\Debug\net8.0\Shaghaf.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\obj\Debug\net8.0\Shaghaf.Service.AssemblyInfoInputs.cache
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\obj\Debug\net8.0\Shaghaf.Service.AssemblyInfo.cs
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\obj\Debug\net8.0\Shaghaf.Service.csproj.CoreCompileInputs.cache
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\obj\Debug\net8.0\Shaghaf.Service.csproj.CopyComplete
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\obj\Debug\net8.0\Shaghaf.Service.dll
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\obj\Debug\net8.0\refint\Shaghaf.Service.dll
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\obj\Debug\net8.0\Shaghaf.Service.pdb
+D:\C#VS\Shaghaf.Dev\Shaghaf.Service\obj\Debug\net8.0\ref\Shaghaf.Service.dll

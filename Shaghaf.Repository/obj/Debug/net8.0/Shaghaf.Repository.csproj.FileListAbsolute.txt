@@ -1,0 +1,17 @@
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\bin\Debug\net8.0\Shaghaf.Repository.deps.json
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\bin\Debug\net8.0\Shaghaf.Repository.dll
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\bin\Debug\net8.0\Shaghaf.Repository.pdb
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\bin\Debug\net8.0\Shaghaf.Core.dll
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\bin\Debug\net8.0\Shaghaf.Core.pdb
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\obj\Debug\net8.0\Shaghaf.Repository.csproj.AssemblyReference.cache
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\obj\Debug\net8.0\Shaghaf.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\obj\Debug\net8.0\Shaghaf.Repository.AssemblyInfoInputs.cache
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\obj\Debug\net8.0\Shaghaf.Repository.AssemblyInfo.cs
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\obj\Debug\net8.0\Shaghaf.Repository.csproj.CoreCompileInputs.cache
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\obj\Debug\net8.0\Shaghaf.Repository.csproj.CopyComplete
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\obj\Debug\net8.0\Shaghaf.Repository.dll
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\obj\Debug\net8.0\refint\Shaghaf.Repository.dll
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\obj\Debug\net8.0\Shaghaf.Repository.pdb
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\obj\Debug\net8.0\ref\Shaghaf.Repository.dll
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\bin\Debug\net8.0\Shaghaf.Service.dll
+D:\C#VS\Shaghaf.Dev\Shaghaf.Repository\bin\Debug\net8.0\Shaghaf.Service.pdb
